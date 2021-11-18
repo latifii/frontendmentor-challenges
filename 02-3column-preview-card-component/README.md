@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/order-summary-component-0xlINnkbq)
-- Live Site URL: [Add live site URL here](https://order-summary-hamii.netlify.app/)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/3column-preview-card-solution-lkcEvXod8)
+- Live Site URL: [live site URL](https://elated-sinoussi-c83dbc.netlify.app)
 
 ## My process
 

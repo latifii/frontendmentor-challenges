@@ -68,7 +68,6 @@ body {
 }
 .sedans {
   background-color: var(--color-primary-bright-orange);
-  /* line-height: 1.8; */
 }
 .suvs {
   background-color: var(--color-primary-dark-cyan);
@@ -119,7 +118,6 @@ body {
   .card{
     max-width: 900px;
     flex-direction: row;
-    /* flex-wrap: wrap; */
   }
   .text{
     margin-bottom: 6em;
